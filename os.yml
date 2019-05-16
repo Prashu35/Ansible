@@ -1,0 +1,24 @@
+---
+- windows:
+- Desktopversions
+- windows 7
+- windows 8.0
+- windows 8.1
+- windowa 10
+serverversions:
+- windows server 2012
+- windows server 2012 R2
+- windows server 2016
+- windows server 2016 nano
+owns:Microsoft
+Ubuntu:
+Desktopversions:
+-ubuntu 14.04 desktop
+-ubuntu 16.04 desktop
+-ubutu 18.04  desktop
+server versions:
+-ubuntu 14
+-ubuntu 16
+-ubuntu 18
+
+

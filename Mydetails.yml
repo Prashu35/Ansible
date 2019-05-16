@@ -1,0 +1,20 @@
+---
+Basic details:
+name:
+contact:
+address:
+street:
+city:
+Qualification:
+-name:b.tech
+univers:jntu
+-name:+2
+Technical skills:
+-name: os
+skills:
+-windows
+-name: Scripting
+---
+project:
+description:
+tools:
